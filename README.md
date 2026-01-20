@@ -34,7 +34,7 @@ Led, uart2 – Peripheral and communication examples
 
 SupcomAI, Projet_PFE – Advanced predictive motor AI projects
 
-…and many more ready-to-run STM32 projects.
+and many more ready-to-run STM32 projects.
 
 📄 Documentation & Resources
 
@@ -72,3 +72,5 @@ Detailed supporting documentation
 📫 Contact
 
 For questions or collaboration opportunities, feel free to reach out:
+
+The full documentation and step-by-step files are too large to host on GitHub. 😄 Feel free to reach out if you’d like me to share them!
