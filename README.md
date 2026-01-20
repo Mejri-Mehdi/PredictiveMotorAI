@@ -74,3 +74,6 @@ Detailed supporting documentation
 For questions or collaboration opportunities, feel free to reach out:
 
 The full documentation and step-by-step files are too large to host on GitHub. 😄 Feel free to reach out if you’d like me to share them!
+
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/976260b9-5958-49be-a51a-2643c2327908" />
+
