@@ -110,7 +110,7 @@ For questions, collaboration, or to request the full documentation:
 This project is licensed under the MIT License.
 See the LICENSE file for details (you can add one if missing).
 
-<p align="center"> <sub>Made with ❤️ by <a href="https://github.com/Mejri-Mehdi">Mejri Mehdi</a></sub> </p> ```
+<p align="center"> <sub>Made with ❤️ by <a href="https://github.com/Mejri-Mehdi">Mejri Mehdi</a></sub> </p>
    
 
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/976260b9-5958-49be-a51a-2643c2327908" />
