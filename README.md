@@ -108,7 +108,7 @@ For questions, collaboration, or to request the full documentation:
 
 📄 License
 This project is licensed under the MIT License.
-See the LICENSE file for details (you can add one if missing).
+See the LICENSE file for details.
 
 
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/976260b9-5958-49be-a51a-2643c2327908" />
