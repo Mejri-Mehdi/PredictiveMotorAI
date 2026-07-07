@@ -60,9 +60,9 @@ This repository is organized into distinct, modular firmware projects targeting 
 
 ## 🧠 TinyML Implementation Pipeline
 
-The predictive maintenance pipeline implemented across `SupcomAI` and sensor-driven ML projects follows a classic edge architecture:
 
-
+<div align="center">
+<pre>
  [Industrial Motor] 
          │
          ▼
@@ -89,6 +89,8 @@ The predictive maintenance pipeline implemented across `SupcomAI` and sensor-dri
                      ┌───────────────┐
                      │  IoT Gateway  │
                      └───────────────┘
+</pre>
+</div>
 
 
 ---
