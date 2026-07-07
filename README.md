@@ -181,4 +181,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <img width="1200" height="675" alt="Hardware Setup and Signal Processing Diagram" src="https://github.com/user-attachments/assets/976260b9-5958-49be-a51a-2643c2327908" />
 
 <p align="center"><sub>Made with ❤️ by <a href="https://github.com/Mejri-Mehdi">Mejri Mehdi</a></sub></p>
-```
