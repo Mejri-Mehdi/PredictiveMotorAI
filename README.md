@@ -1,8 +1,3 @@
-# 🚀 Improved README.md for PredictiveMotorAI
-
-Below is the complete raw markdown code for your **PredictiveMotorAI** repository. You can copy it directly from this file:
-
-```markdown
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-STM32-blue?style=for-the-badge&logo=stmicroelectronics" alt="STM32"/>
   <img src="https://img.shields.io/badge/Language-C%2FC%2B%2B-informational?style=for-the-badge&logo=c" alt="C/C++"/>
