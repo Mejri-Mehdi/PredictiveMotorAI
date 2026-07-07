@@ -62,7 +62,7 @@ This repository is organized into distinct, modular firmware projects targeting 
 
 The predictive maintenance pipeline implemented across `SupcomAI` and sensor-driven ML projects follows a classic edge architecture:
 
-```
+
  [Industrial Motor] 
          │
          ▼
@@ -89,7 +89,7 @@ The predictive maintenance pipeline implemented across `SupcomAI` and sensor-dri
                      ┌───────────────┐
                      │  IoT Gateway  │
                      └───────────────┘
-```
+
 
 ---
 
