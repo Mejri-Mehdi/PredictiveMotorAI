@@ -103,7 +103,7 @@ This repository represents the firmware portion of a massive research and engine
 *   📊 **Technical Slide Presentation:** A highly visual executive summary highlighting the engineering achievements, hardware topologies, and real-time performance profiles.
 
 > [!TIP]
-> **Recruiters and Collaborators:** The full report and slide deck contain intellectual property and are hosted externally due to size limitations. Please email me at [mehdimejri15@gmail.com](mailto:mehdimejri15@gmail.com) or open an issue, and I will gladly share them with you!
+> **Recruiters Only:** The full report and slide deck contain intellectual property and are hosted externally due to size limitations. Please email me at [mehdimejri15@gmail.com](mailto:mehdimejri15@gmail.com) or open an issue, and I will gladly share them with you!
 
 ---
 
