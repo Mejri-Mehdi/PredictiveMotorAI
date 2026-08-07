@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License"/>
 </p>
 
-<h1 align="center">⚡ PredictiveMotorAI</h1>
+<h1 align="center">PredictiveMotorAI</h1>
 
 <p align="center">
   <strong>Production-Grade STM32 Firmware Ecosystem for Real-Time Motor Control, High-Performance Multi-Sensor Fusion, IoT Connectivity, and On-Device TinyML Predictive Analytics.</strong>
